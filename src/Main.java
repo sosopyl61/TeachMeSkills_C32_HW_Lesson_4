@@ -18,6 +18,8 @@ public class Main {
             case 3:
                 Task3.task3();
                 break;
+            default:
+                System.out.println("Invalid number of the task!");
         }
     }
 }
